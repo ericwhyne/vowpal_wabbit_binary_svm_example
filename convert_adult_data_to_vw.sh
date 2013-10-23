@@ -1,2 +1,2 @@
 #!/bin/bash
-./data_to_vw.py adult.data adult.data.vw 14 '>' '<'
+./convert_csv_to_vw_binary.py adult.data adult.data.vw 14 '>' '<'
