@@ -20,4 +20,6 @@ Pick some random lines from the data and see how it works with the model:
 The data is always categorized as -1 or 1. VW's prediction will be a number between -1 and 1.
 Since this is a binary classifier and not a regression, if the signs of the data and the prediction are the same it's a match. 
 
+convert_csv_to_vw_binary.py is the only somewhat general purpose piece of code in this repo. 
+
 
