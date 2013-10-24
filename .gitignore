@@ -1,3 +1,4 @@
 svm.model
 adult.data.vw
 adult.data.vw.cache
+logistic.model
